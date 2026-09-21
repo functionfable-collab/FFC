@@ -1,0 +1,3 @@
+Joskus komento ei toiminut vaikka se oli identtinen ohjeessa olevaan.
+Ainoa keino saada tehtävä läpi ole kopioida (sama) vastaus ohjeesta ja liittää se terminaaliin
+jotta tehtävä meni läpi. Bugi?
